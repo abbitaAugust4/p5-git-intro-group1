@@ -15,7 +15,7 @@ let names = [
   // "Student 3",
   //
   // When it's your turn, add your name like:
-  'Tony',
+  'Meredith',
   'Abigail',
 ];
 
