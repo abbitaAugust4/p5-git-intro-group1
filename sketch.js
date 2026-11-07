@@ -10,11 +10,12 @@
 
 let names = [
   // Example:
-  'Christina',
+  'Student 1',
   // "Student 2",
   // "Student 3",
   //
   // When it's your turn, add your name like:
+  'Christina'
   'Meredith',
   'Abigail',
 ];
