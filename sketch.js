@@ -10,7 +10,7 @@
 
 let names = [
   // Example:
-  'Student 1',
+  'Christina',
   // "Student 2",
   // "Student 3",
   //
