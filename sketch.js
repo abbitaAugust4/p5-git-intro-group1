@@ -16,6 +16,7 @@ let names = [
   //
   // When it's your turn, add your name like:
   'Tony',
+  'Abigail',
 ];
 
 function setup() {
